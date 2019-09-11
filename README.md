@@ -6,10 +6,10 @@ Authors: Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu
 Link: [https://arxiv.org/abs/1909.00361](https://arxiv.org/abs/1909.00361)
 
 ## Todo List (hopefully done before late September)
-✅ upload paper
-⏳ upload source code
-⏳ upload translated CMRC2018/DRCD data
-⏳ add descriptions on how-to
+✅ upload paper  
+⏳ upload source code  
+⏳ upload translated CMRC2018/DRCD data  
+⏳ add descriptions on how-to  
 
 ## Citation
 If you use the data or codes in this repository, please cite our paper
