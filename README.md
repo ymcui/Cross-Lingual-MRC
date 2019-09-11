@@ -3,8 +3,13 @@ This repository contains resources of the following [EMNLP-IJCNLP 2019](https://
 
 Title: Cross-Lingual Machine Reading Comprehension  
 Authors: Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu  
+Link: [https://arxiv.org/abs/1909.00361](https://arxiv.org/abs/1909.00361)
 
-**The paper and codes will be available in the future. Once it's ready, we will upload them asap.**
+## Todo List (hopefully done before late September)
+✅ upload paper
+⏳ upload source code
+⏳ upload translated CMRC2018/DRCD data
+⏳ add descriptions on how-to
 
 ## Citation
 If you use the data or codes in this repository, please cite our paper
@@ -20,7 +25,7 @@ If you use the data or codes in this repository, please cite our paper
 ```
 
 ## Acknowledgement
-Yiming Cui would like to thank [Google TensorFlow Research Cloud (TFRC) Program](https://www.tensorflow.org/tfrc) for partially supporting this research.
+Yiming Cui would like to thank [Google TensorFlow Research Cloud (TFRC) Program](https://www.tensorflow.org/tfrc) for partially supporting this research. 
 
 ## Issues
 If there is any problem, please submit a GitHub Issue.
