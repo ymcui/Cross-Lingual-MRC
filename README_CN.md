@@ -1,5 +1,13 @@
 [**中文说明**](./README_CN.md) | [**English**](./README.md)
 
+**[我们的口头报告](https://www.emnlp-ijcnlp2019.org/program/schedule/) 被安排在EMNLP 2019主会第一天（2019年11月5日星期二），欢迎大家前来交流。**
+```
+Session 4B: Question Answering I
+16:30–16:48
+Cross-Lingual Machine Reading Comprehension (#8)
+```
+
+
 # 基于跨语言的机器阅读理解
 本目录包含以下[EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org)论文中的相关资源。
 

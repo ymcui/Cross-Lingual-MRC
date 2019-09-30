@@ -1,5 +1,12 @@
 [**中文说明**](./README_CN.md) | [**English**](./README.md)
 
+**[Our oral presentation is (temporarily) scheduled](https://www.emnlp-ijcnlp2019.org/program/schedule/) on the first day (Tuesday, November 5, 2019) of EMNLP 2019 main conference. You are welcomed to take part in.**
+```
+Session 4B: Question Answering I
+16:30–16:48
+Cross-Lingual Machine Reading Comprehension (#8)
+```
+
 # Cross-Lingual Machine Reading Comprehension
 This repository contains resources of the following [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org) paper.  
 
