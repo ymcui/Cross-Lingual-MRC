@@ -1,19 +1,11 @@
 [**中文说明**](./README_CN.md) | [**English**](./README.md)
 
-**[我们的口头报告](https://www.emnlp-ijcnlp2019.org/program/schedule/) 被安排在EMNLP 2019主会第一天（2019年11月5日星期二），欢迎大家前来交流。**
-```
-Session 4B: Question Answering I
-16:30–16:48
-Cross-Lingual Machine Reading Comprehension (#8)
-```
-
-
 # 基于跨语言的机器阅读理解
 本目录包含以下[EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org)论文中的相关资源。
 
 **标题: Cross-Lingual Machine Reading Comprehension**   
 作者: Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu  
-链接: [https://arxiv.org/abs/1909.00361](https://arxiv.org/abs/1909.00361)
+链接: [https://www.aclweb.org/anthology/D19-1169/](https://www.aclweb.org/anthology/D19-1169/)
 
 ![pic.png](./pic.png)
 
@@ -219,18 +211,27 @@ python run_clmrc.py \
 ## 引用
 如果您使用了我们的数据或者代码，请在您的论文中引用我们的文章。
 ```
-@InProceedings{cui-emnlp2019-clmrc,
-  author = 	"Cui, Yiming and Che, Wanxiang and Liu, Ting and Qin, Bing and Wang, Shijin and Hu, Guoping",
-  title = 	"Cross-Lingual Machine Reading Comprehension",
-  booktitle = 	"Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing",
-  year = 	"2019",
-  publisher = 	"Association for Computational Linguistics"
+@inproceedings{cui-emnlp2019-clmrc,
+    title = "Cross-Lingual Machine Reading Comprehension",
+    author = "Cui, Yiming  and
+      Che, Wanxiang  and
+      Liu, Ting  and
+      Qin, Bing  and
+      Wang, Shijin  and
+      Hu, Guoping",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1169",
+    doi = "10.18653/v1/D19-1169",
+    pages = "1586--1595",
 }
-
 ```
 
 ## 致谢
-第一作者感谢谷歌[TensorFlow Research Cloud (TFRC) 计划](https://www.tensorflow.org/tfrc)部分支持了本项研究。
+我们感谢谷歌[TensorFlow Research Cloud (TFRC) 计划](https://www.tensorflow.org/tfrc)部分支持了本项研究。
 
 ## 问题反馈
 请提交GitHub Issue。

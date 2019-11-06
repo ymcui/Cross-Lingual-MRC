@@ -1,18 +1,11 @@
 [**中文说明**](./README_CN.md) | [**English**](./README.md)
 
-**[Our oral presentation is (temporarily) scheduled](https://www.emnlp-ijcnlp2019.org/program/schedule/) on the first day (Tuesday, November 5, 2019) of EMNLP 2019 main conference. You are welcomed to take part in.**
-```
-Session 4B: Question Answering I
-16:30–16:48
-Cross-Lingual Machine Reading Comprehension (#8)
-```
-
 # Cross-Lingual Machine Reading Comprehension
 This repository contains resources of the following [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org) paper.  
 
 **Title: Cross-Lingual Machine Reading Comprehension**    
 Authors: Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu  
-Link: [https://arxiv.org/abs/1909.00361](https://arxiv.org/abs/1909.00361)
+Link: [https://www.aclweb.org/anthology/D19-1169/](https://www.aclweb.org/anthology/D19-1169/)
 
 ![pic.png](./pic.png)
 
@@ -216,18 +209,27 @@ python run_clmrc.py \
 ## Citation
 If you use the data or codes in this repository, please cite our paper.
 ```
-@InProceedings{cui-emnlp2019-clmrc,
-  author = 	"Cui, Yiming and Che, Wanxiang and Liu, Ting and Qin, Bing and Wang, Shijin and Hu, Guoping",
-  title = 	"Cross-Lingual Machine Reading Comprehension",
-  booktitle = 	"Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing",
-  year = 	"2019",
-  publisher = 	"Association for Computational Linguistics"
+@inproceedings{cui-emnlp2019-clmrc,
+    title = "Cross-Lingual Machine Reading Comprehension",
+    author = "Cui, Yiming  and
+      Che, Wanxiang  and
+      Liu, Ting  and
+      Qin, Bing  and
+      Wang, Shijin  and
+      Hu, Guoping",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1169",
+    doi = "10.18653/v1/D19-1169",
+    pages = "1586--1595",
 }
-
 ```
 
 ## Acknowledgement
-Yiming Cui would like to thank [Google TensorFlow Research Cloud (TFRC) Program](https://www.tensorflow.org/tfrc) for partially supporting this research.
+We would like to thank [Google TensorFlow Research Cloud (TFRC) Program](https://www.tensorflow.org/tfrc) for partially supporting this research.
 
 ## Issues
 If there is any problem, please submit a GitHub Issue.
